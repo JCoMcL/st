@@ -1,0 +1,6 @@
+pkg-config
+harfbuzz
+freetype
+fontconfig
+xorg.libX11
+xorg.libXft
